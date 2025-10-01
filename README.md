@@ -57,7 +57,7 @@ I design and build **intelligent systems** that bridge **cutting-edge AI researc
 
 ---
 
-🚀 Current AI Exploration 🔬
+##  🚀 Current AI Exploration 🔬
 
 I am constantly exploring new horizons in AI. Here are some areas I’m currently diving into:
 
