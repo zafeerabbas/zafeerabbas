@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zafeer Abbas – AI/ML Full-Stack Engineer & LLM Architect
 
-![Header GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+![Header GIF](https://raw.githubusercontent.com/<username>/<repo>/main/assets/header.gif)
 
 I design and build **intelligent systems** that bridge **cutting-edge AI research** and **production-ready software**. From **Large Language Models (LLMs)** to **autonomous agents**, I architect solutions that scale, reason, and deliver real-world impact.  
 
