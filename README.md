@@ -55,15 +55,6 @@ I design and build **intelligent systems** that bridge **cutting-edge AI researc
 - Intelligent agents for **customer service automation**  
 - Domain-specific NLP & RAG pipelines  
 
-███████████████████████████████████  95% Python
-█████████████████████████████████    90% TensorFlow
-███████████████████████████          85% React
-████████████████████████             80% Node.js
-██████████████████████████          90% PyTorch
-████████████████████████            85% AWS
-███████████████████                  75% Docker
-██████████████████████               80% Kubernetes
-
 ---
 
 🚀 Current AI Exploration 🔬
@@ -78,14 +69,6 @@ AutoML & ML Ops Automation: Streamlining model deployment and optimization.
 
 Multimodal AI: Combining NLP, CV, and audio recognition into one intelligent system.
 
-🌍 Fun Facts About Me
-
-Here are some fun, creative facts that make me tick:
-
-🎧 I code to lo-fi beats and sci-fi podcasts 🌌.
-🤖 I’ve developed AI agents that help automate workflows in e-commerce and healthcare.
-🌱 I’m passionate about making AI more accessible and impact-driven.
-🎨 I love experimenting with new AI art and creative tools that bring data to life.
 ---
 
 ## 📫 Let’s Connect
